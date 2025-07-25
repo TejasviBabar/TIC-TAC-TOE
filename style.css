@@ -1,0 +1,84 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-color:#fae4ba ;
+    text-align: center;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+    color:rgb(30, 210, 150);
+    margin-top:10px;
+    font-size: 50px;
+}
+.container{
+    height:100%;
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+   
+}
+
+.game{
+    margin-top:10px;
+    height:70vmin;
+    width: 70vmin;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap:1rem;
+}
+
+.box{
+    height:20vmin;
+    width:20vmin;
+    border-radius: 10%;
+    border:none;
+    box-shadow: 10px 10px  #e5a9a94d;
+    color:#d66ba0;
+    font-size:100px;
+    text-decoration: wavy;
+    background-color: pink;
+    
+}
+
+#resetbtn{
+    height:40px;
+    width:80px;
+    background-color: #bdf8ec;
+    border: none;
+    margin-top: 20px;
+    box-shadow: 5px 5px #e5a9a94d;
+}
+
+.msg{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:1rem;
+    margin-top: 10px;
+    color:#af4d98;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+#newbtn{
+     height:40px;
+    width:80px;
+    background-color: #bdf8ec;
+    border: none;
+    box-shadow: 5px 5px #e5a9a94d;
+}
+
+.hide{
+    display: none;
+}

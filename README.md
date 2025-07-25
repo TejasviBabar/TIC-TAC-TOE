@@ -17,9 +17,12 @@ A simple and fun **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaS
 
 ## 📸 Screenshots
 
-<img src="C:\Users\kisan\OneDrive\Pictures\Screenshots\Screenshot 2025-07-16 220822.png"> <br>
-<img src="C:\Users\kisan\OneDrive\Pictures\Screenshots\Screenshot 2025-07-16 220837.png"> <br>
-<img src="C:\Users\kisan\OneDrive\Pictures\Screenshots\Screenshot 2025-07-16 220903.png">
+![Tic Tac Toe]("C:\Users\kisan\OneDrive\Pictures\Screenshots\Screenshot 2025-07-16 220822.png");
+![Tic Tac Toe]("C:\Users\kisan\OneDrive\Pictures\Screenshots\Screenshot 2025-07-16 220837.png");
+![Tic Tac Toe Screenshot]("C:\Users\kisan\OneDrive\Pictures\Screenshots\Screenshot 2025-07-16 220903.png");
+
+
+
 
 ## 🚀 Getting Started
 

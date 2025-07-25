@@ -17,9 +17,9 @@ A simple and fun **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaS
 
 ## 📸 Screenshots
 
-![Tic Tac Toe](screenshot/Screenshot1.png);
-![Tic Tac Toe](screenshot/Screenshot1.png);
-![Tic Tac Toe](screenshot/Screenshot1.png);
+![Tic Tac Toe](Screenshot1.png);
+![Tic Tac Toe](Screenshot2.png);
+![Tic Tac Toe](Screenshot3.png);
 
 
 

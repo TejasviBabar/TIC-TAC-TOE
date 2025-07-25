@@ -16,9 +16,9 @@ A simple and fun **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaS
 - Basic game logic to check win/draw
 
 ## Screenshots
-![Tic Tac Toe](screenshots/Screenshot1.png);
-![Displaying Winner](screenshots/Screenshot2.png);
-![DRaw Game](screenshots/Screenshot3.png);
+<img src="screenshot1.png" alt="Tic Tac Toe" width="350"/> <br>
+<img src="screenshot2.png" alt="Tic Tac Toe" width="350"/> <br>
+<img src="screenshot3.png" alt="Tic Tac Toe" width="350"/> <br>
 
 ## 🚀 Getting Started
 

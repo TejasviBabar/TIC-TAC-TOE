@@ -15,16 +15,6 @@ A simple and fun **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaS
 - Game reset option
 - Basic game logic to check win/draw
 
-## 📸 Screenshots
-
-![Tic Tac Toe](Screenshot1.png);
-![Tic Tac Toe](Screenshot2.png);
-![Tic Tac Toe](Screenshot3.png);
-
-
-
-
-
 ## 🚀 Getting Started
 
 To play the game locally:
